@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xeno Store</string>
+    <string name="Name">Nama</string>
+    <string name="Subscription_Type">Tipe Langganan</string>
+    <string name="Gold">Emas</string>
+    <string name="Silver">Perak</string>
+    <string name="Normal">Biasa</string>
+    <string name="Item_Code">Kode Barang</string>
+    <string name="Amount_Goods">JUmlah Barang</string>
+    <string name="Process">Proses</string>
+    <string name="Delete">Hapus</string>
+    <string name="welcome_message">Selamat Datang</string>
+    <string name="member_type">Tipe Member:</string>
+    <string name="item_code">Kode Barang:</string>
+    <string name="item_name">Nama Barang:</string>
+    <string name="item_price">Harga Barang:</string>
+    <string name="total_price">Total Harga:</string>
+    <string name="discount_price">Diskon Harga:</string>
+    <string name="member_discount">Diskon Member:</string>
+    <string name="total_payment">Jumlah Bayar:</string>
+    <string name="transaction_detail">Detail Transaksi:</string>
+    <string name="name">Nama:</string>
+    <string name="share_via">Bagikan melalui</string>
+    <string name="todays_transaction">Transaksi Hari Ini</string>
+</resources>

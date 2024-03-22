@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ゼノストア</string>
+    <string name="Name">名前</string>
+    <string name="Subscription_Type">サブスクリプションの種類</string>
+    <string name="Gold">金</string>
+    <string name="Silver">銀</string>
+    <string name="Normal">普通</string>
+    <string name="Item_Code">アイテムコード</string>
+    <string name="Amount_Goods">商品の量</string>
+    <string name="Process">プロセス</string>
+    <string name="Delete">消去</string>
+    <string name="welcome_message">いらっしゃいませ</string>
+    <string name="member_type">メンバータイプ :</string>
+    <string name="item_code">アイテムコード :</string>
+    <string name="item_name">項目名 :</string>
+    <string name="item_price">アイテム価格 :</string>
+    <string name="total_price">合計金額 :</string>
+    <string name="discount_price">割引価格 :</string>
+    <string name="member_discount">会員割引 :</string>
+    <string name="total_payment">お支払い総額 :</string>
+    <string name="transaction_detail">取引の詳細 :</string>
+    <string name="name">名前 :</string>
+    <string name="share_via">共有経由</string>
+    <string name="todays_transaction">本日の取引</string>
+</resources>
